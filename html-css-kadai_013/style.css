@@ -102,6 +102,7 @@ PC用のスタイル
 
   #nav-sp li {
     list-style: none;
+    margin: 10px 0;
   }
 
   #close {
@@ -116,6 +117,7 @@ PC用のスタイル
 
  #nav-sp a {
   display: block;
+  text-decoration: none;
  }
 
  #nav-sp a:link {
@@ -135,7 +137,7 @@ PC用のスタイル
   color: #ffffff;
  }
 
- #nav-sp a .menu {
+ #nav-sp .menu {
   text-decoration: none;
   display: block;
   margin: 0 20px;
